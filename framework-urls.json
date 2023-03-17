@@ -1,0 +1,186 @@
+{
+    "jekyll": [
+        "https://plfa.github.io/",
+        "https://cs-uob.github.io/",
+        "https://kennysmithed.github.io/oels2022/"
+    ],
+    "wordpress": [
+        "https://wp.inf.ed.ac.uk/thehumanfactor/",
+        "https://open.ed.ac.uk/edinburghs-oers/",
+        "https://dataschools.education/data-education-resources/",
+        "https://www.udemy.com/",
+        "https://opencourselibrary.org/course/",
+        "https://collection.bccampus.ca/",
+        "https://fabriquerel.org/rel-disponibles/",
+        "https://openedmb.ca/find-an-open-textbook/manitobas-open-textbooks/",
+        "https://ocw.utoronto.ca/curriculum/",
+        "https://blogs.uned.es/unedabierta/cursos-cero/",
+        "https://oeru.org/courses/",
+        "https://academicearth.org/architecture/",
+        "https://www.jove.com/search?content_type=&page=1&query=",
+        "https://learn.microsoft.com/en-us/training/browse/?roles=k-12-educator,higher-ed-educator,school-leader,parent-guardian",
+        "https://openverse.org/",
+        "https://ocw.tudelft.nl/",
+        "https://oli.cmu.edu/",
+        "https://ocw.kyoto-u.ac.jp/en/course/"
+    ],
+    "pebblepad": [
+        "https://v3.pebblepad.co.uk/spa/#/public/w4WgzHMjqcGrMWZht6bGsfffqZ?historyId=zM3PtDvCF7&pageId=w4WgzHMjqcGrMp9Mqwdw5nw8tZ"
+    ],
+    "gatsby": [
+        "https://discovery.x5gon.org/search/?q=machine%20learning",
+        "https://java-programming.mooc.fi/part-1"
+    ],
+    "bootstrap": [
+        "https://iversity.org/en/courses",
+        "https://statsapp.utsc.utoronto.ca/",
+        "https://www.langcen.cam.ac.uk/opencourseware/opencourseware-index.html",
+        "https://open.uci.edu/",
+        "https://www.icesi.edu.co/ocw/",
+        "https://swayam.gov.in/explorer",
+        "https://www.skillscommons.org/",
+        "https://oer.deepwebaccess.com/oer/desktop/en/search.html",
+        "https://oasis.geneseo.edu/",
+        "https://libretexts.org/",
+        "https://cosmolearning.org/courses/",
+        "https://www.wlv.ac.uk/schools-and-institutes/faculty-of-science-and-engineering/stem-response-team/our-resources/",
+        "https://scholar.hw.ac.uk/",
+        "https://openedmb.ca/find-an-open-textbook/manitobas-open-textbooks/",
+        "https://discovery.x5gon.org/search/?q=machine%20learning",
+        "https://www.oercommons.org/",
+        "https://www.merlot.org/merlot/",
+        "https://introtodeeplearning.com/",
+        "https://oyc.yale.edu/"
+    ],
+    "drupal": [
+        "https://www.oerafrica.org/search/site",
+        "https://educacao-executiva.fgv.br/cursos/gratuitos",
+        "https://edtech.engineering.utoronto.ca/project/building-science-fundamentals",
+        "https://pz.harvard.edu/search/resources",
+        "https://epale.ec.europa.eu/en/resource-centre",
+        "https://open.umich.edu/",
+        "https://www.ucl.ac.uk/sustainable/leaf/resources-and-materials",
+        "https://www.udemy.com/",
+        "https://online.stanford.edu/content-gallery",
+        "https://oyc.yale.edu/"
+    ],
+    "emberjs": [
+        "https://www.linkedin.com/learning",
+        "https://teachingcommons.us/"
+    ],
+    "contentful": [
+        "https://www.coursera.org/"
+    ],
+    "react": [
+        "https://www.coursera.org/",
+        "https://www.futurelearn.com/courses",
+        "https://www.khanacademy.org/",
+        "https://www.oercommons.org/",
+        "https://openstax.org/books/college-physics-ap-courses-2e/pages/1-connection-for-ap-r-courses",
+        "https://www.fun-mooc.fr/en/courses/?limit=21&offset=0",
+        "https://rise.articulate.com/share/MN7VE2syDslJBMYQg-3rWU3qgc1RAvVa#/",
+        "https://labs.tib.eu/edoer/en/",
+        "https://www.openlearning.com/courses/"
+    ],
+    "moodle": [
+        "https://www.open.edu/openlearn/",
+        "https://learn.saylor.org/course/view.php?id=6",
+        "https://www.icesi.edu.co/ocw/",
+        "https://www.elp-gast.uni-tuebingen.de/",
+        "https://ocw.um.edu.my/",
+        "https://ocw.utem.edu.my/web/"
+    ],
+    "yui": [
+        "https://teachingcommons.us/",
+        "https://learn.saylor.org/course/view.php?id=6",
+        "https://swayam.gov.in/explorer",
+        "https://www.icesi.edu.co/ocw/",
+        "https://digitalcommons.usu.edu/ocw/"
+    ],
+    "mediawiki": [
+        "https://www.wikiversity.org/"
+    ],
+    "skeljs": [
+        "http://introtodeeplearning.com/"
+    ],
+    "youtube": [],
+    "facebook": [
+        "http://www.sotonbrainhub.co.uk/"
+    ],
+    "instagram": [
+        "http://www.sotonbrainhub.co.uk/"
+    ],
+    "yola": [
+        "http://www.sotonbrainhub.co.uk/"
+    ],
+    "microsoft-sway": [
+        "https://sway.office.com/ySmyUOIlayFSem3T"
+    ],
+    "nextjs": [
+        "https://www.mooc.fi/en/#courses",
+        "https://education.nationalgeographic.org/?q=&page%5Bnumber%5D=1&page%5Bsize%5D=25"
+    ],
+    "edshare": [
+        "https://edshare.gla.ac.uk/",
+        "https://edshare.gcu.ac.uk/",
+        "https://edshare.soton.ac.uk/",
+        "https://edshare.uhi.ac.uk/",
+        "https://eshare.edgehill.ac.uk/"
+    ],
+    "openrepository": [
+        "https://oxfamilibrary.openrepository.com/handle/10546/620557"
+    ],
+    "angular": [
+        "https://edu.google.com/intl/ALL_uk/for-educators/resources/",
+        "https://search.ecampusontario.ca/?itemTypes=6&itemTypes=12&sortCol=2",
+        "https://nptel.ac.in/courses",
+        "https://suche.wirlernenonline.de/de/search?q=machine%20learning"
+    ],
+    "vue": [
+        "https://world-lecture-project.org/"
+    ],
+    "bookdown": [
+        "https://www.introds.org/"
+    ],
+    "clever": [
+        "https://www.oercommons.org/"
+    ],
+    "modx": [
+        "https://www.digitalresearchservices.ed.ac.uk/resources/?r_stages=&r_disciplines=&r_school=&r_campus="
+    ],
+    "perl": [
+        "https://open-education-repository.ucl.ac.uk/"
+    ],
+    "django": [
+        "https://maktabkhooneh.org/",
+        "https://hstalks.com/business/"
+    ],
+    "canvas": [
+        "https://www.wlv.ac.uk/schools-and-institutes/faculty-of-science-and-engineering/stem-response-team/our-resources/",
+        "https://canvas.instructure.com/search/all_courses"
+    ],
+    "ruby-on-rails": [
+        "https://iversity.org/en/courses",
+        "https://libretexts.org/"
+    ],
+    "openedx": [
+        "https://www.edx.org/",
+        "https://blogs.uned.es/unedabierta/cursos-cero/"
+    ],
+    "aspnet": [
+        "https://ocw.vu.edu.pk/",
+        "https://educacao-executiva.fgv.br/cursos/gratuitos"
+    ],
+    "google-docs": [
+        "https://docs.google.com/document/d/1KMCMsidKrH3wYOj5LHWwAf7lsPNxOqQ04gA0EIqzV3E/edit"
+    ],
+    "hugging-face": [
+        "https://huggingface.co/course/en/chapter1/1"
+    ],
+    "dokuwiki": [
+        "https://ocw.cs.pub.ro/courses/start"
+    ],
+    "joomla": [
+        "https://oli.cmu.edu/jcourse/workbook/activity/page?context=9cade1540a0001dc723c9b3acaf87946"
+    ]
+}

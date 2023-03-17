@@ -1,0 +1,177 @@
+{
+    "jekyll": {
+        "min": 77,
+        "max": 97,
+        "median": 93
+    },
+    "wordpress": {
+        "min": 0,
+        "max": 100,
+        "median": 87
+    },
+    "pebblepad": {
+        "min": 90,
+        "max": 90,
+        "median": 90
+    },
+    "gatsby": {
+        "min": 68,
+        "max": 96,
+        "median": 82
+    },
+    "bootstrap": {
+        "min": 0,
+        "max": 100,
+        "median": 81
+    },
+    "drupal": {
+        "min": 0,
+        "max": 96,
+        "median": 90
+    },
+    "emberjs": {
+        "min": 96,
+        "max": 100,
+        "median": 98
+    },
+    "contentful": {
+        "min": 100,
+        "max": 100,
+        "median": 100
+    },
+    "react": {
+        "min": 82,
+        "max": 100,
+        "median": 95
+    },
+    "moodle": {
+        "min": 62,
+        "max": 100,
+        "median": 85
+    },
+    "yui": {
+        "min": 83,
+        "max": 100,
+        "median": 96
+    },
+    "mediawiki": {
+        "min": 89,
+        "max": 89,
+        "median": 89
+    },
+    "skeljs": {
+        "min": 80,
+        "max": 80,
+        "median": 80
+    },
+    "youtube": {
+        "min": null,
+        "max": null,
+        "median": null
+    },
+    "facebook": {
+        "min": 0,
+        "max": 0,
+        "median": 0
+    },
+    "instagram": {
+        "min": 55.00000000000001,
+        "max": 55.00000000000001,
+        "median": 55.00000000000001
+    },
+    "yola": {
+        "min": 55.00000000000001,
+        "max": 55.00000000000001,
+        "median": 55.00000000000001
+    },
+    "microsoft-sway": {
+        "min": 93,
+        "max": 93,
+        "median": 93
+    },
+    "nextjs": {
+        "min": 85,
+        "max": 98,
+        "median": 91.5
+    },
+    "edshare": {
+        "min": 56.99999999999999,
+        "max": 93,
+        "median": 79
+    },
+    "angular": {
+        "min": 0,
+        "max": 97,
+        "median": 38.5
+    },
+    "vue": {
+        "min": 83,
+        "max": 83,
+        "median": 83
+    },
+    "bookdown": {
+        "min": 90,
+        "max": 90,
+        "median": 90
+    },
+    "clever": {
+        "min": 82,
+        "max": 82,
+        "median": 82
+    },
+    "modx": {
+        "min": 100,
+        "max": 100,
+        "median": 100
+    },
+    "perl": {
+        "min": 76,
+        "max": 76,
+        "median": 76
+    },
+    "django": {
+        "min": 68,
+        "max": 89,
+        "median": 78.5
+    },
+    "canvas": {
+        "min": 98,
+        "max": 100,
+        "median": 99
+    },
+    "ruby-on-rails": {
+        "min": 92,
+        "max": 98,
+        "median": 95
+    },
+    "openedx": {
+        "min": 83,
+        "max": 96,
+        "median": 89.5
+    },
+    "aspnet": {
+        "min": 56.99999999999999,
+        "max": 74,
+        "median": 65.5
+    },
+    "google-docs": {
+        "min": 81,
+        "max": 81,
+        "median": 81
+    },
+    "hugging-face": {
+        "min": 75,
+        "max": 75,
+        "median": 75
+    },
+    "dokuwiki": {
+        "min": 89,
+        "max": 89,
+        "median": 89
+    },
+    "joomla": {
+        "min": 89,
+        "max": 89,
+        "median": 89
+    }
+}
