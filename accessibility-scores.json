@@ -1,4 +1,14 @@
 {
+    "hugo": {
+        "min": 89,
+        "max": 100,
+        "median": 92.5
+    },
+    "native": {
+        "min": 63,
+        "max": 100,
+        "median": 86
+    },
     "jekyll": {
         "min": 77,
         "max": 97,
