@@ -1,4 +1,30 @@
 {
+    "hugo": [
+        "https://groups.inf.ed.ac.uk/teaching/cogsci/course/",
+        "https://mollicaf.github.io/teaching/",
+        "https://ocw.mit.edu/",
+        "https://groups.inf.ed.ac.uk/teaching/ccs/"
+    ],
+    "native": [
+        "https://www.inf.ed.ac.uk/teaching/courses/ads/",
+        "https://www.inf.ed.ac.uk/teaching/courses/agta/",
+        "https://mlpr.inf.ed.ac.uk/2022/",
+        "https://www.inf.ed.ac.uk/teaching/courses/asr/index-2023.html",
+        "https://www.inf.ed.ac.uk/teaching/courses/diss/",
+        "https://www.inf.ed.ac.uk/teaching/courses/itcs/",
+        "https://uoepsy.github.io/",
+        "https://www.inf.ed.ac.uk/teaching/courses/tts/",
+        "https://www.inf.ed.ac.uk/teaching/courses/mip1/",
+        "https://www.inf.ed.ac.uk/teaching/years/ug4/courses.html",
+        "https://www.inf.ed.ac.uk/teaching/courses/mip2/",
+        "https://pressbooks.directory/",
+        "https://archive.org/",
+        "https://distill.pub/"
+    ],
+    "github": [
+        "https://github.com/solegga/blockchaincourse",
+        "https://github.com/maziarraissi/Applied-Deep-Learning"
+    ],
     "jekyll": [
         "https://plfa.github.io/",
         "https://cs-uob.github.io/",
